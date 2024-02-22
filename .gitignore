@@ -160,3 +160,9 @@ cython_debug/
 #.idea/
 
 data/
+myUNet_pe/
+MedSegDiff/
+runs/
+nnUNet/
+splits_final.json
+UNet_CKPT_best.pt
